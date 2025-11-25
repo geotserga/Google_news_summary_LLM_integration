@@ -1,1 +1,2 @@
-# Google_news_summary_LLM_integration
+# Google news summary - LLM integration
+
