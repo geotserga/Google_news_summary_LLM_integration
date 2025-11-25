@@ -27,9 +27,9 @@ Sends the generated summary to Slack using an incoming webhook.
 
 Create a .env file in the root directory:
 
-NEWS_API_KEY=your_news_api_key
-OPENAI_API_KEY=your_openai_api_key
-SLACK_WEBHOOK_URL=your_slack_webhook_url
+- NEWS_API_KEY=your_news_api_key
+- OPENAI_API_KEY=your_openai_api_key
+- SLACK_WEBHOOK_URL=your_slack_webhook_url
 
 
 These keys are required for:
